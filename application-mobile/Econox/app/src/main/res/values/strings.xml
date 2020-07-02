@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Econox</string>
+    <string name="authentification">Authentification</string>
+    <string name="agent">Nom</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="connexion">Connexion</string>
+    <string name="collecte">Collecte</string>
+    <string name="depose">Depose</string>
+    <string name="r_aliser_une_collecte">Réaliser une collecte</string>
+    <string name="nouveau_container">Nouveau container ?</string>
+    <string name="batterie">Batterie</string>
+    <string name="t_l_phone">Téléphone</string>
+    <string name="volume">Volume</string>
+    <string name="id">ID</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="test">Test</string>
+    <string name="t">T</string>
+    <string name="enable">Enable</string>
+    <string name="visible">Visible</string>
+    <string name="appairage">Appairage</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="trame">Trame</string>
+    <string name="d_coder">Décoder</string>
+    <string name="textview">TextView</string>
+    <string name="telephone">telephone</string>
+    <string name="fin_de_journ_e">Fin de journée</string>
+    <string name="afficher">Afficher</string>
+    <string name="fin_de_journ_e2">Fin de journée</string>
+    <string name="ajout_d_un_nouveau_container">Ajout d\'un nouveau container</string>
+    <string name="ajouter_un_num_ro">Ajouter un numéro</string>
+    <string name="ajouter">Ajouter</string>
+</resources>
