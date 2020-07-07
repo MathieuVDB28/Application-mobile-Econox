@@ -6,4 +6,5 @@
 >
 >Il peut ensuite envoyer ces données dans une BDD locale (SQLite) et dans une base distante.
 ![Main](API-PHP/codesBons.jpg)  
-![Collecte](API-PHP/Collecte.png)	
+![Collecte](API-PHP/Collecte.jpg)	
+![Fin_de_journee](API-PHP/fin_de_journee.jpg)	
